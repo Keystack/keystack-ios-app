@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-estimote": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "urbanairship-cordova": {
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        },
+        "cordova-plugin-keyboard": {
+            "PACKAGE_NAME": "com.keystacksolutions.connect"
+        },
+        "com.unarin.cordova.beacon": {
+            "PACKAGE_NAME": "com.keystacksolutions.connect"
+        }
+    },
+    "dependent_plugins": {}
+}

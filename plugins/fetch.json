@@ -1,0 +1,52 @@
+{
+    "cordova-plugin-estimote": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/evothings/phonegap-estimotebeacons.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-screen-orientation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-screen-orientation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "urbanairship-cordova": {
+        "source": {
+            "type": "registry",
+            "id": "urbanairship-cordova"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-keyboard": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-keyboard"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.unarin.cordova.beacon": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/petermetz/cordova-plugin-ibeacon.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
