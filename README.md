@@ -3,9 +3,7 @@
 
 ## Installation
 
-Simple iOS wrapper for Cordova based application.
-
-Used in conjunction with Keystack/keystack-ios-app
+Simple iOS wrapper for a Cordova based application that uses BLE beacon technology. This wrapper can be used in conjunction with Keystack/keystack-ios-app -- or whatever web application you like.
 
 
 After cloning this repository, generate iOS platform files by running:
